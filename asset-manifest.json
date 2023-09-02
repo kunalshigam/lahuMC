@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lahuMC/static/css/main.a59cac56.css",
+    "main.js": "/lahuMC/static/js/main.29064f5b.js",
+    "static/js/787.d9312eb8.chunk.js": "/lahuMC/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/lahuMC/index.html",
+    "main.a59cac56.css.map": "/lahuMC/static/css/main.a59cac56.css.map",
+    "main.29064f5b.js.map": "/lahuMC/static/js/main.29064f5b.js.map",
+    "787.d9312eb8.chunk.js.map": "/lahuMC/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59cac56.css",
+    "static/js/main.29064f5b.js"
+  ]
+}

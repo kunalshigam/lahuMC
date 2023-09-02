@@ -56,7 +56,7 @@ function App() {
                 <>
                   <LocationAndTime weather={weather}/>
                   <TemperatureDetails  weather={weather} units={units}/>
-                  <Forecast title={"HOURLY FORECAST"} weather={weather?.hourly} />
+                  <Forecast title={"HOURLY FORECASTTTTTT"} weather={weather?.hourly} />
                   <Forecast title={"DAILY FORECAST"} weather={weather?.daily}/>
                 </>
               }
